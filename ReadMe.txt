@@ -9,5 +9,5 @@ To run this project with Maven use
 
     mvn camel:run
 
-For more help see reach out to me Milind & the Team.
+For more help see reach out to  Milind & the Team.
 
